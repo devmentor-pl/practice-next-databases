@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# Next.js: Stylowanie
+# Next.js: Bazy danych
 
 
 
@@ -20,7 +20,7 @@
 
 &nbsp;
 
-:arrow_left: [*poprzedni zestaw zadań (**Next.js: Wprowadzenie+**)*](https://github.com/devmentor-pl/practice-next-introduction)
+:arrow_left: [*poprzedni zestaw zadań (**Next.js: Wprowadzenie+**)*](https://github.com/devmentor-pl/practice-next-styling)
 
 ## Jak prawidłowo wykonać zadania?
 
